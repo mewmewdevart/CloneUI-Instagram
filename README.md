@@ -18,4 +18,3 @@ Neste projeto fui desafiada a reconstruir a página inicial de login do Instagra
 
 **Comentários sobre o projeto:** <br>
 Por já saber um pouco de HTML e CSS, o projeto foi simples para mim. Tenho um pouco de dificuldade a respeito de como o Flexbox funciona, estou acostumada com a utilização do Bootstrap que torna essa organização de box menos-dificil. 
-Pretendo replicar outros niveis de acesso do Instagram neste projeto.
