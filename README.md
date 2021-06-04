@@ -1,6 +1,5 @@
 # Clone da Interface do Instagram
-
-O projeto em questão faz parte da grade de projetos do curso de HTML Developer da plataforma de cursos gratuitos [Digital Innovation One](https://web.digitalinnovation.one/home).
+O projeto em questão faz parte da grade de projetos do Bootcamp de HTML Developer e JS para Games da plataforma de cursos gratuitos [Digital Innovation One](https://web.digitalinnovation.one/home).
 
 #### Desafio 🚀
 
