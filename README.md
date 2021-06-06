@@ -1,26 +1,27 @@
-# Clone da Interface do Instagram
-O projeto em questão faz parte da grade de projetos do Bootcamp de HTML Developer e JS para Games da plataforma de cursos gratuitos [Digital Innovation One](https://web.digitalinnovation.one/home).
+# Clone da Interface do Instagram 📷
 
-#### Desafio 🚀
+<p align="center">
+<img src="https://user-images.githubusercontent.com/50052600/120941121-5fb74480-c6f7-11eb-8cd8-82fd18af798f.png" alt="Dory" width="30%"/>
+</P>
 
-Neste projeto fui desafiada a reconstruir a página inicial de login do Instagram, utilizando o Flexbox, uma metodologia de posicionamento de elementos na tela.
+### 🚀 Desafio:
 
-**Tecnologias usadas:**
+​	O CloneUI-Instagram é uma recriação da interface da rede Social Instagram, o projeto apresentado neste repositorio faz parte de uma série de desafios criados pela plataforma de cursos gratuitos [Digital Innovation One](https://web.digitalinnovation.one/home) através do Bootcamp de JavaScript para Games.
 
+O desafio consiste em desafiar o aluno(a) a desenvolver a interface grafica de Netflix usando HTML5, CSS3 e Flexbox.
+
+### ⚙️ Tecnologias Utilizadas:
 - HTML5
 - CSS3
-
-**Dificuldade do projeto:**
-
-- [✔️] Facil
-- [   ] Intermediário
-- [   ] Difícil
-
+- 
 **Comentários sobre o projeto:** <br>
-Por já saber um pouco de HTML e CSS, o projeto foi simples para mim. Tenho um pouco de dificuldade a respeito de como o Flexbox funciona, estou acostumada com a utilização do Bootstrap que torna essa organização de box menos-dificil. 
+Por já saber um pouco de HTML e CSS, o projeto não foi tão complexo para mim. Tive um pouco de dificuldade a respeito de como o Flexbox (para a responsividade) funcionava, estava costumada a usar o Bootstrap apra resolver as resoluções da tela.
+
+**Dificuldade do projeto:** Facil - 04.06.2021
 
 **Screenshot do projeto:**
 ![screenInstagramUI](https://user-images.githubusercontent.com/50052600/120877184-69bc3480-c58b-11eb-9bbf-120b99588fcc.jpg)
 
+<p align="center"> Desenvolvido com 💜 por Larissa Cristina Benedito. </p>
 
 
