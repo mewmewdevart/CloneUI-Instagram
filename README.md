@@ -13,11 +13,6 @@ O desafio consiste em desafiar o aluno(a) a desenvolver a interface grafica de N
 ### ⚙️ Tecnologias Utilizadas:
 - HTML5
 - CSS3
-- 
-**Comentários sobre o projeto:** <br>
-Por já saber um pouco de HTML e CSS, o projeto não foi tão complexo para mim. Tive um pouco de dificuldade a respeito de como o Flexbox (para a responsividade) funcionava, estava costumada a usar o Bootstrap apra resolver as resoluções da tela.
-
-**Dificuldade do projeto:** Facil - 04.06.2021
 
 **Screenshot do projeto:**
 ![screenInstagramUI](https://user-images.githubusercontent.com/50052600/120877184-69bc3480-c58b-11eb-9bbf-120b99588fcc.jpg)
