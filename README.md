@@ -1,22 +1,39 @@
-# Clone da Interface do Instagram 📷
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/50052600/120941121-5fb74480-c6f7-11eb-8cd8-82fd18af798f.png" alt="Dory" width="30%"/>
+<img src="https://www.iiitdm.ac.in/img/icon/instagram_logo.png" alt="Dory" width="20%"/>
 </P>
 
-### 🚀 Desafio:
+<h1 align="center">
+ CloneUI - Instagram 📸
+</h1>
 
-​	O CloneUI-Instagram é uma recriação da interface da rede Social Instagram, o projeto apresentado neste repositorio faz parte de uma série de desafios criados pela plataforma de cursos gratuitos [Digital Innovation One](https://web.digitalinnovation.one/home) através do Bootcamp de JavaScript para Games.
+<p align="center">
+	<b><i>Instagram Clone made with HTML and CSS for study purposes.</i></b><br>
+</p>
 
-O desafio consiste em desafiar o aluno(a) a desenvolver a interface grafica de Netflix usando HTML5, CSS3 e Flexbox.
+<p align="center">
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/mewmewdevart/CloneUI-Instagram?color=6272a4" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/CloneUI-Instagram?color=6272a4" />
+	<img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/CloneUI-Instagram?color=6272a4"/>
+	<img alt="Main language" src="https://img.shields.io/github/license/mewmewdevart/CloneUI-Instagram?color=6272a4"/>
+</p>
 
-### ⚙️ Tecnologias Utilizadas:
-- HTML5
-- CSS3
+## 💡 About the project
+> _CloneUI - Instagram is recreation of the interface (login) of Instagram, Instagram is a free photo and video sharing app. The project presendted in this repository is the part of a series of challenges created by the free course platform [Digital Innovation One](https://web.digitalinnovation.one/home)  - JavaScript for Games Bootcamp. <br>
+>_Challenge: Develop a Instagram graphical interface using HTML5 and CSS3 (Flexbox). 
 
-**Screenshot do projeto:**
+## 🦄 Tech
+
+* HTML5
+* CSS3
+
+## 📌 Credits
+
+* Documentation: [W3Schools](https://www.w3schools.com/)
+* The Challenge: [Bootcamp Js para Games](https://web.digitalinnovation.one/track/javascript-game-developer)
+
+## ✨ PrintScreen:
 ![screenInstagramUI](https://user-images.githubusercontent.com/50052600/120877184-69bc3480-c58b-11eb-9bbf-120b99588fcc.jpg)
 
-<p align="center"> Desenvolvido com 💜 por Larissa Cristina Benedito. </p>
+<p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew/Larcrist). </p>
 
 
